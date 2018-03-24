@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Cuộc đời người tu
+            Các Vị Tổ Sư
           </span>
         </Link>
 
